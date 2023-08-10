@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T14:52:00.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Sw4G8NMYxkMU9QRR2Vrd" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T15:41:37.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_71QDbyeyMfqaTYX8-xl" version="21.6.7" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1644" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2403" dy="1277" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1c1d494c118603dd-1" value="突发事件舆情处置流程" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="10" width="1770" height="980" as="geometry" />
+          <mxGeometry x="40" y="10" width="1780" height="980" as="geometry" />
         </mxCell>
         <mxCell id="oOQ63VLb-OkWk4r61rTC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;spacing=0;" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-26" target="oOQ63VLb-OkWk4r61rTC-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,8 +112,14 @@
             <mxPoint x="-2" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="Tv2FIY8ql31G6wODKrf9-156" target="Tv2FIY8ql31G6wODKrf9-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-156" value="确定舆情回应主体人、时间、地点、内容" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="123.5" y="726" width="143" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-178" value="评估处置结果" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="123.5" y="826" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="子公司" style="swimlane;html=1;startSize=20;fontSize=14;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="390" y="20" width="410" height="960" as="geometry" />
@@ -169,6 +175,9 @@
             <mxPoint x="30" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-3" source="Tv2FIY8ql31G6wODKrf9-101" target="Tv2FIY8ql31G6wODKrf9-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-101" value="拟定新闻通稿/采访稿" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-3">
           <mxGeometry x="108.5" y="726" width="172" height="50" as="geometry" />
         </mxCell>
@@ -185,8 +194,8 @@
         </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-123.5" y="763" as="sourcePoint" />
-            <mxPoint x="108.5" y="763" as="targetPoint" />
+            <mxPoint x="-123.5" y="760" as="sourcePoint" />
+            <mxPoint x="108.5" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-165" value="审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-164">
@@ -194,8 +203,11 @@
             <mxPoint x="-101" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-172" value="调查舆情回应效果与后续发展" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="96" y="827" width="197" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="分公司" style="swimlane;html=1;startSize=20;fontSize=14;" parent="1c1d494c118603dd-1" vertex="1">
-          <mxGeometry x="800" y="20" width="400" height="960" as="geometry">
+          <mxGeometry x="800" y="20" width="410" height="960" as="geometry">
             <mxRectangle x="500" y="20" width="40" height="970" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -215,10 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-104" value="对接投诉人/伤者、社区、业主等外部机构与相关单位，做好安抚/沟通工作" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-4">
-          <mxGeometry x="83" y="643" width="261" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.93;entryY=0.737;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-4" source="Tv2FIY8ql31G6wODKrf9-104" target="Tv2FIY8ql31G6wODKrf9-104">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="83.8" y="634" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1c1d494c118603dd-4" source="Tv2FIY8ql31G6wODKrf9-145" target="Tv2FIY8ql31G6wODKrf9-25">
           <mxGeometry relative="1" as="geometry">
@@ -228,11 +237,59 @@
         <mxCell id="Tv2FIY8ql31G6wODKrf9-145" value="与街道、居委、社区进行沟通联络，收集民情信息，尽可能化解周边影响" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="85" y="407" width="258" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-4" source="Tv2FIY8ql31G6wODKrf9-167" target="Tv2FIY8ql31G6wODKrf9-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-167" value="分公司发言人回应媒体采访" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="83.5" y="726" width="261" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-269" value="对接事件相关人员，持续沟通，防止次生舆情发生" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="99.8" y="827" width="229" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-31" target="oOQ63VLb-OkWk4r61rTC-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="328" />
+              <mxPoint x="343" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-130" value="传达处置指导意见" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-129">
+          <mxGeometry x="0.1659" y="-4" relative="1" as="geometry">
+            <mxPoint x="-57" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-30" target="oOQ63VLb-OkWk4r61rTC-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="328" />
+              <mxPoint x="745" y="328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-138" value="传达舆情管控核心利益点与现场处置要点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-135">
+          <mxGeometry x="-0.536" y="2" relative="1" as="geometry">
+            <mxPoint x="63" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-29" target="oOQ63VLb-OkWk4r61rTC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-140" value="调配资源协助现场处置并提出具体安排" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-139">
+          <mxGeometry x="-0.3922" y="-3" relative="1" as="geometry">
+            <mxPoint x="79" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="Tv2FIY8ql31G6wODKrf9-28" target="oOQ63VLb-OkWk4r61rTC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-163" value="明确事件对外信息发布主体与口径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-161">
+          <mxGeometry x="-0.2974" y="-2" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oOQ63VLb-OkWk4r61rTC-21" value="项目部" style="swimlane;html=1;startSize=20;fontSize=14;" parent="1c1d494c118603dd-1" vertex="1">
-          <mxGeometry x="1200" y="20" width="570" height="960" as="geometry">
+          <mxGeometry x="1210" y="20" width="570" height="960" as="geometry">
             <mxRectangle x="500" y="20" width="40" height="970" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -288,49 +345,43 @@
         <mxCell id="Tv2FIY8ql31G6wODKrf9-108" value="由项目经理或委派人员对接" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="oOQ63VLb-OkWk4r61rTC-21">
           <mxGeometry x="190" y="190" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oOQ63VLb-OkWk4r61rTC-21" source="Tv2FIY8ql31G6wODKrf9-151" target="Tv2FIY8ql31G6wODKrf9-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tv2FIY8ql31G6wODKrf9-151" value="维持现场秩序&lt;br style=&quot;font-size: 14px;&quot;&gt;防范舆情扩散" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="oOQ63VLb-OkWk4r61rTC-21">
           <mxGeometry x="430.0000000000002" y="535" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-31" target="oOQ63VLb-OkWk4r61rTC-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="343" y="328" />
-              <mxPoint x="343" y="328" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-130" value="传达处置指导意见" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-129">
-          <mxGeometry x="0.1659" y="-4" relative="1" as="geometry">
-            <mxPoint x="-57" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-30" target="oOQ63VLb-OkWk4r61rTC-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="745" y="328" />
-              <mxPoint x="745" y="328" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-138" value="传达舆情管控核心利益点与现场处置要点" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-135">
-          <mxGeometry x="-0.536" y="2" relative="1" as="geometry">
-            <mxPoint x="63" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="oOQ63VLb-OkWk4r61rTC-29" target="oOQ63VLb-OkWk4r61rTC-26">
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="oOQ63VLb-OkWk4r61rTC-21" source="Tv2FIY8ql31G6wODKrf9-170" target="Tv2FIY8ql31G6wODKrf9-271">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-140" value="调配资源协助现场处置并提出具体安排" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-139">
-          <mxGeometry x="-0.3922" y="-3" relative="1" as="geometry">
-            <mxPoint x="79" as="offset" />
-          </mxGeometry>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-170" value="在舆情风险消退前安排专人值守" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="oOQ63VLb-OkWk4r61rTC-21">
+          <mxGeometry x="430.0000000000002" y="719" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="Tv2FIY8ql31G6wODKrf9-28" target="oOQ63VLb-OkWk4r61rTC-38">
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-271" value="落实后续整改措施&lt;br&gt;防范同类事件再次发生" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14;align=center;arcSize=50;spacing=0;" vertex="1" parent="oOQ63VLb-OkWk4r61rTC-21">
+          <mxGeometry x="405" y="828" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" source="Tv2FIY8ql31G6wODKrf9-172" target="Tv2FIY8ql31G6wODKrf9-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tv2FIY8ql31G6wODKrf9-163" value="明确事件对外信息发布主体与口径" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-161">
-          <mxGeometry x="-0.2974" y="-2" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-181" value="复盘分析形成情况说明" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-180">
+          <mxGeometry x="0.1173" y="-2" relative="1" as="geometry">
+            <mxPoint x="24" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="Tv2FIY8ql31G6wODKrf9-269" target="Tv2FIY8ql31G6wODKrf9-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-274" value="针对此次事件暴露的问题指定整改方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-273">
+          <mxGeometry x="-0.4395" relative="1" as="geometry">
+            <mxPoint x="58" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="Tv2FIY8ql31G6wODKrf9-269" target="Tv2FIY8ql31G6wODKrf9-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv2FIY8ql31G6wODKrf9-278" value="反馈事件处置情况与相关人员状况" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tv2FIY8ql31G6wODKrf9-276">
+          <mxGeometry x="0.3907" y="-3" relative="1" as="geometry">
+            <mxPoint x="51" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
